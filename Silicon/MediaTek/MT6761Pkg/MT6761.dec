@@ -1,0 +1,11 @@
+[Defines]
+  DEC_SPECIFICATION              = 0x0001001A
+  PACKAGE_NAME                   = MT6761Pkg
+  PACKAGE_GUID                   = d59af83f-5059-4ece-8139-7df1d9bd3845
+  PACKAGE_VERSION                = 1.0
+
+[Includes]
+  Include
+
+[Guids]
+  gMT6761PkgTokenSpaceGuid        = { 0xce35ae8c, 0x1736, 0x4859, {0xa8, 0x6e, 0x3d, 0x47, 0x32, 0xd8, 0xfa, 0x67 } }
